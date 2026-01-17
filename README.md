@@ -51,6 +51,7 @@ Run all cells.
 
 
 Machine Learning Logic: Cancellation Prediction
+
 1 Goal
 
 Predict the likelihood that a booking will be cancelled based on historical booking data.
@@ -64,3 +65,4 @@ The target is binary (cancelled: 0 = no, 1 = yes).
 It predicts probabilities, which is perfect for estimating cancellation risk.
 
 Simple, interpretable, and effective for small datasets.
+
