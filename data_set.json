@@ -1,0 +1,76 @@
+{
+  "hotel_name": "Royal Orchid Hotel",
+  "currency": "INR",
+  "data": [
+    {
+      "date": "2026-01-01",
+      "sales": [
+        { "bill_id": 101, "amount": 4200, "payment_mode": "Cash", "room_type": "Deluxe", "is_cancelled": false },
+        { "bill_id": 102, "amount": 6100, "payment_mode": "UPI", "room_type": "Suite", "is_cancelled": false },
+        { "bill_id": 103, "amount": 2800, "payment_mode": "Card", "room_type": "Standard", "is_cancelled": true }
+      ]
+    },
+    {
+      "date": "2026-01-02",
+      "sales": [
+        { "bill_id": 104, "amount": 3500, "payment_mode": "UPI", "room_type": "Deluxe", "is_cancelled": false },
+        { "bill_id": 105, "amount": 5000, "payment_mode": "Card", "room_type": "Suite", "is_cancelled": false }
+      ]
+    },
+    {
+      "date": "2026-01-03",
+      "sales": [
+        { "bill_id": 106, "amount": 2400, "payment_mode": "Cash", "room_type": "Standard", "is_cancelled": false },
+        { "bill_id": 107, "amount": 4200, "payment_mode": "UPI", "room_type": "Deluxe", "is_cancelled": false },
+        { "bill_id": 108, "amount": 3000, "payment_mode": "Card", "room_type": "Standard", "is_cancelled": true }
+      ]
+    },
+    {
+      "date": "2026-01-04",
+      "sales": [
+        { "bill_id": 109, "amount": 7000, "payment_mode": "UPI", "room_type": "Suite", "is_cancelled": false }
+      ]
+    },
+    {
+      "date": "2026-01-05",
+      "sales": [
+        { "bill_id": 110, "amount": 3900, "payment_mode": "Cash", "room_type": "Deluxe", "is_cancelled": false },
+        { "bill_id": 111, "amount": 2600, "payment_mode": "Card", "room_type": "Standard", "is_cancelled": false }
+      ]
+    },
+    {
+      "date": "2026-01-06",
+      "sales": [
+        { "bill_id": 112, "amount": 5200, "payment_mode": "UPI", "room_type": "Suite", "is_cancelled": false },
+        { "bill_id": 113, "amount": 3100, "payment_mode": "Cash", "room_type": "Deluxe", "is_cancelled": true }
+      ]
+    },
+    {
+      "date": "2026-01-07",
+      "sales": [
+        { "bill_id": 114, "amount": 2800, "payment_mode": "Card", "room_type": "Standard", "is_cancelled": false },
+        { "bill_id": 115, "amount": 4500, "payment_mode": "UPI", "room_type": "Deluxe", "is_cancelled": false }
+      ]
+    },
+    {
+      "date": "2026-01-08",
+      "sales": [
+        { "bill_id": 116, "amount": 6200, "payment_mode": "UPI", "room_type": "Suite", "is_cancelled": false }
+      ]
+    },
+    {
+      "date": "2026-01-09",
+      "sales": [
+        { "bill_id": 117, "amount": 3400, "payment_mode": "Cash", "room_type": "Deluxe", "is_cancelled": false },
+        { "bill_id": 118, "amount": 2900, "payment_mode": "Card", "room_type": "Standard", "is_cancelled": true }
+      ]
+    },
+    {
+      "date": "2026-01-10",
+      "sales": [
+        { "bill_id": 119, "amount": 5100, "payment_mode": "UPI", "room_type": "Suite", "is_cancelled": false },
+        { "bill_id": 120, "amount": 3600, "payment_mode": "Cash", "room_type": "Deluxe", "is_cancelled": false }
+      ]
+    }
+  ]
+}
